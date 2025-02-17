@@ -7,6 +7,8 @@ Hi, I'm Akash! I'm a passionate software developer and problem solver. I love le
 
 - JavaScript 
 - Flask 
+- Django
+- Selenium
 - SQL 
 - HTML 
 - CSS 
