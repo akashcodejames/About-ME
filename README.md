@@ -14,6 +14,8 @@ Hi, I'm Akash! I'm a passionate software developer and problem solver. I love le
 - CSS 
 - JavaScript (JS) 
 - Data Structures & Algorithms 
+- Docker 
+- Kubernets Basic
 
 ## 📈 LeetCode Profile:
 I actively solve problems on LeetCode to improve my problem-solving skills. You can check out my profile here:
